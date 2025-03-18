@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zi0dx4ogp-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/zi0dx4ogp-java-quarkus-gitops
